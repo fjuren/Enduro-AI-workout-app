@@ -4,7 +4,7 @@
 
 Using AI and user selections, Enduro generates personalized workouts based on user goals, fitness levels, and available equipment. Built with Node.js, Express, React Native, and Supabase, it’s designed for flexibility, intelligent recommendations, and real-world usability.
 
-> Deployed to TestFlight. Actively developed.
+> Deployed to TestFlight and actively in development. If you’d like to try the app, please reach out for an invitation link.
 
 ## Quick Links
 [Features](#features) · [Tech Stack](#tech-stack) · [Roadmap](#roadmap)
