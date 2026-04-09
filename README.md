@@ -6,8 +6,21 @@ Using AI and user selections, Enduro generates personalized workouts based on us
 
 > Deployed to TestFlight. Actively developed.
 
+## Quick Links
+[Features](#features) · [Tech Stack](#tech-stack) · [Roadmap](#roadmap)
+
 ---
-## Screenshots & Demo
+
+## Overview
+The slides below walk through the problem this app solves, why existing solutions fall short, and how Enduro addresses it.
+
+![Problem](images/FJ-Pitch-Problem.png)
+
+![Failed Solutions](images/FJ-Pitch-Failed-Solutions.png)
+
+![Solution](images/FJ-Pitch-Solution.png)
+
+![MVP Screenshot](images/FJ-Pitch-MVP-Screenshots.png)
 
 ---
 
@@ -70,7 +83,7 @@ Using AI and user selections, Enduro generates personalized workouts based on us
 
 ---
 
-## Future Improvements
+## Roadmap
 
 * **Multi-Day AI Training Plans** - Generate structured programs over weeks or months  
 * **Adaptive Planning** - Adjusts training based on rest, travel, illness, and event data  
